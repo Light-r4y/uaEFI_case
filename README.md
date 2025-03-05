@@ -2,7 +2,7 @@
 
 Case for uaEFI plate to 3D print  
 ----------------------------------------------------
-Screw : M3x16
+Screw : M3x12
 
 Heat brass insert nut: M3x5x5
 
