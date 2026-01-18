@@ -1,6 +1,6 @@
 # uaEFI_case
 
-Case for uaEFI plate to 3D print  
+uaEFI board enclosure for 3D printing
 ----------------------------------------------------
 Screw : DIN 912 M3x12
 
